@@ -14,5 +14,8 @@ I will begin by learning my way around the TensorFlow library, through observing
 
 Project Workflow:
 
+1. [lstm_model_exploration_nb](https://github.com/christianspybrook/lstm_sentiment_analysis/tree/master/lstm_model_exploration/lstm_model_exploration_nb)
+: Notebook containing the code I used to explore TensorFlow LSTM models to predict on the IMDb toy dataset, downloaded through Keras.
+
 In Progress...
 	updated weekly.
