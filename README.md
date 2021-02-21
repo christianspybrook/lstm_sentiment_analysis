@@ -18,4 +18,4 @@ Project Workflow:
 : Notebook containing the code I used to explore TensorFlow LSTM models to predict on the IMDb toy dataset, downloaded through Keras.
 
 In Progress...
-	updated weekly.
+	updated as required.
